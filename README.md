@@ -16,8 +16,8 @@ Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, meny
 - RAM minimal 64 Mb+
 
 ### Langkah instalasi dalam CLI.
-1. Pastikan seluruh paket sistem _up-to-date_ dan install XAMPP (Cross-platform Apache, PHP, dan MySQL). Selama instalasi XAMPP, pilih komponen Apache, PHP, dan MySQL untuk di install. https://www.apachefriends.org/index.html.
-2. Install extension yang dibutuhkan dengan mengaktifkannya melalui panel XAMPP pilih ``config`` lalu buka ``PHP (php.ini)``
+1. Pastikan seluruh paket sistem _up-to-date_ dan install ``XAMPP`` (Cross-platform Apache, PHP, dan MySQL). Selama instalasi XAMPP, pilih komponen ``Apache``, ``PHP``, dan ``MySQL`` untuk di install. https://www.apachefriends.org/index.html.
+2. Install extension yang dibutuhkan dengan mengaktifkannya melalui panel kontrol XAMPP pilih ``config`` lalu buka ``PHP (php.ini)``
   - Cari line berikut di php.ini:
     ```
     ;extension=curl
@@ -36,8 +36,8 @@ Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, meny
 git clone https://github.com/opencart/opencart.git
 ```
 3. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
-4. Rename ``config-dist.php`` to ``config.php`` and ``admin/config-dist.php`` to ``admin/config.php``
-5. Buat database dan user untuk Opencart menggunakan ``phpMyAdmin`` dengan nama ``opencart``
+4. Rename ``config-dist.php`` jadi ``config.php`` dan ``admin/config-dist.php`` jadi ``admin/config.php``
+5. Buat database dengan nama ``opencart`` dan user untuk Opencart menggunakan ``phpMyAdmin``
 6. Akses opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan termasuk konfigurasi database.
 7. Hapus direktori instalasi untuk keamanan situs web.
 
