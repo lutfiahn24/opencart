@@ -4,6 +4,7 @@
 ## Sekilas Tentang
 
 OpenCart adalah platform e-commerce berbasis web open-source yang dirancang untuk memungkinkan pemilik bisnis untuk membuat dan mengelola toko online mereka sendiri dengan mudah.
+Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, menyiapkan metode pembayaran yang mudah, menambahkan beberapa toko, serta mengelola diskon dan afiliasi. Selain itu, fungsionalitas OpenCart bisa ditingkatkan dengan modul PHP.  
 
 ## Instalasi
 
