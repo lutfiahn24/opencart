@@ -82,6 +82,7 @@ Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
        - Memiliki interface yang mudah digunakan, membuatnya cocok untuk digunakan oleh pemula
        - Pengelolaan produk yang mudah dipahami dengan mengelompokkan produk sesuai kategori
        - Beragamnya pilihan pembayaran membuat pengguna sangat fleksibel dalam memilih metode pembayaran yang diinginkan
+       - Mendukung dalam berbagai bahasa dan mata uang sehingga memungkinkan untuk menjangkau pasar global
          
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
