@@ -81,7 +81,7 @@ Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
     - kelebihan yang dimiliki aplikasi web Opencart, antara lain :
        - Memiliki interface yang mudah digunakan, membuatnya cocok untuk digunakan oleh pemula
        - Pengelolaan produk yang mudah dipahami dengan mengelompokkan produk sesuai kategori
-       - Beragamnya pilihan pembayaran membuat konsumen sangat fleksibel dalam memilih metode pembayaran yang diinginkan
+       - Beragamnya pilihan pembayaran membuat pengguna sangat fleksibel dalam memilih metode pembayaran yang diinginkan
          
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
