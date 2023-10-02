@@ -46,9 +46,19 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
+1. Saat kita membuka Opencart, maka kita akan masuk ke **Home Page** yang menampilkan produk-produk penjualan
+<img width="495" alt="image" src="https://github.com/lutfiahn24/opencart/assets/93109340/f5000f6c-1985-4bc4-aa4c-cd2f352ced79">
+
+2. Pada bagian atas terdapat menu berisi kategori dari produk yang dijual, sehingga kita dapat memilih kategori produk yang ingin ditampilkan
+<img width="492" alt="image" src="https://github.com/lutfiahn24/opencart/assets/93109340/28f03b93-2ae7-493a-9511-71fc040f2d4b">
+
+3. Kita juga dapat memilih mata uang yang kita pakai dengan menggunakan fitur **Currency** yang ada dipojok kiri atas
+<img width="792" alt="image" src="https://github.com/lutfiahn24/opencart/assets/93109340/c39c75b8-44ca-4390-9760-4748a184794b">
+ 
+2. Sebelum menggunakan Opencart lebih lanjut, kita perlu login terlebih dahulu dengan membuka tab **My Account** lalu pilih opsi **Login**
+<img width="886" alt="image" src="https://github.com/lutfiahn24/opencart/assets/93109340/07445af2-5e6d-4631-a301-9dd40cbdd178">
+
 
 
 ## Pembahasan
