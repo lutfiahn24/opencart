@@ -83,7 +83,6 @@ OpenCart ditulis dalam bahasa pemrograman PHP yang support penggunaan MySQL. Kel
     - Beragamnya pilihan pembayaran membuat pengguna sangat fleksibel dalam memilih metode pembayaran yang diinginkan.
     - Mendukung dalam berbagai bahasa dan mata uang sehingga memungkinkan untuk menjangkau pasar global.
 
-
 Kekurangan yang dimiliki OpenCart yaitu:
 
     - OpenCart tidak memiliki integrasi built-in yang kuat dengan berbagai fungsi manajemen bisnis lainnya.
@@ -97,4 +96,4 @@ Jika dibandingkan dengan aplikasi Odoo, Opencart memiliki beberapa kelebihan dan
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+1. [OpenCart](https://www.opencart.com)
