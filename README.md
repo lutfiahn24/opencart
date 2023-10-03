@@ -80,9 +80,15 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 
 Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www.rumahweb.com/. Tujuan dari hosting adalah agar Opencart dapat diakses secara _online_. Berikut langkah-langkah hosting Opencart :
 1. Sewa layanan hosting dan domain dari rumahweb. Domain yang digunakan adalah opencartonline.my.id.
+   
 2. Login ke cPanel dari akun rumahweb.
+   
    <img width="886" alt="Screenshot (1289)" src="https://github.com/lutfiahn24/opencart/assets/146713686/c4e1d585-f425-4446-8ab9-7be7b36cdd9c">
 
+3. Pada cPanel pilih file manager di menu files.
+   <img width="886" alt="Screenshot (1290)" src="https://github.com/lutfiahn24/opencart/assets/146713686/82808190-a9bb-4f92-853b-61c1e594fc92">
+
+4. 
 
 ## Cara Pemakaian
 
