@@ -92,8 +92,9 @@ Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www
 
    <img width="886" alt="Screenshot (1292)" src="https://github.com/lutfiahn24/opencart/assets/146713686/de3b8a4d-b277-47c5-a86e-351ec0bf0fa9">
 
-6. Buka folder upload pada folder opencart-master dan hapus file index.php
+6. Buka kembali cPanel dan buat database dengan nama `opencart` di MySQL database lalu buat admin. 
 
+7. Akses Opencart melalui browser dengan URL `http://opencartonline.my.id` dan Opencart sudah berhasil dihosting.
 
 ## Cara Pemakaian
 
