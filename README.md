@@ -78,7 +78,7 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 
 ## Otomatisasi (opsional)
 
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
+Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari rumahweb.com. Tujuan dari hosting adalah agar Opencart dapat diakses secara _online_. Berikut langkah-langkah hosting Opencart :
 
 ## Cara Pemakaian
 
