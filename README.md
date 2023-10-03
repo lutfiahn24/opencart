@@ -87,31 +87,45 @@ Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
 1. Login sebagai admin, lalu akan masuk ke page **Dashboard**
    <img width="886" alt="Dashboard" src="https://github.com/lutfiahn24/opencart/assets/118100945/dfd14126-e299-4e90-b24f-be138b5ece36">
 
+2. Navbar disamping menyediakan beberapa fitur yang dapat digunakan oleh admin untuk mempermudah admin.
+   Beberapa contoh fitur yang akan kami tampilkan adalah sebagai berikut:
+   Untuk menambahkan produk baru dapat dilakukan dengan menuju **Catalog** yang ada pada Navbar disamping lalu **Products**.
+   Setelah itu dipojok kanan atas terdapat icon **+** lalu isi detail dari produk yang akan ditambahkan.
+   <img width="886" alt="Screenshot 2023-10-03 at 11 50 47" src="https://github.com/lutfiahn24/opencart/assets/118100945/bbf80d85-5103-4c8d-a4d0-2053ac34ba52">
+
+3. Untuk melihat daftar **Order** terdapat pada menu **Sales**.
+   <img width="886" alt="Order" src="https://github.com/lutfiahn24/opencart/assets/118100945/d19d0e79-8eb8-49ed-8ec4-f3ae10999b88">
+
+4. Untuk melihat berapa banyak Customer yang melakukan registrasi terdapat pada menu **Customers**.
+   <img width="886" alt="Customer" src="https://github.com/lutfiahn24/opencart/assets/118100945/b7e809c8-c5f1-415f-bb27-f14ddb5a9f35">
+
+Adapun cara pemakaian CMS OpenCart sebagai User.
+
 1. Saat kita membuka Opencart, maka kita akan masuk ke **Home Page** yang menampilkan produk-produk penjualan
    <img width="886" alt="image" src="https://github.com/lutfiahn24/Opencart/assets/93109340/f5000f6c-1985-4bc4-aa4c-cd2f352ced79">
 
-1. Pada bagian atas terdapat menu berisi kategori dari produk yang dijual, sehingga kita dapat memilih kategori produk yang ingin ditampilkan
+2. Pada bagian atas terdapat menu berisi kategori dari produk yang dijual, sehingga kita dapat memilih kategori produk yang ingin ditampilkan
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/28f03b93-2ae7-493a-9511-71fc040f2d4b">
 
-1. Kita juga dapat memilih mata uang yang kita pakai dengan menggunakan fitur **Currency** yang ada dipojok kiri atas
+3. Kita juga dapat memilih mata uang yang kita pakai dengan menggunakan fitur **Currency** yang ada dipojok kiri atas
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/c39c75b8-44ca-4390-9760-4748a184794b">
 
-1. Sebelum menggunakan Opencart lebih lanjut, kita perlu login terlebih dahulu dengan membuka tab **My Account** lalu pilih opsi **Login**
+4. Sebelum menggunakan Opencart lebih lanjut, kita perlu login terlebih dahulu dengan membuka tab **My Account** lalu pilih opsi **Login**
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/07445af2-5e6d-4631-a301-9dd40cbdd178">
 
-1. Kita dapat menambahkan produk ke keranjang menggunakan fitur **Add to Cart**
+5. Kita dapat menambahkan produk ke keranjang menggunakan fitur **Add to Cart**
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/943a0a5f-2dfe-4004-9ebc-af16fa06dbd6">
 
-1. Untuk melihat daftar produk di keranjang, kita dapat menggunakan menu **Shopping Cart**. Disana kita bisa juga melihat estimasi biaya pengiriman dan penambahan code voucher
+6. Untuk melihat daftar produk di keranjang, kita dapat menggunakan menu **Shopping Cart**. Disana kita bisa juga melihat estimasi biaya pengiriman dan penambahan code voucher
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/d024aa23-25bd-460f-9e1c-89268c9a8a88">
 
-1. Menu **Checkout** digunakan saat kita akan melakukan pembelian dan pembayaran dengan mengisi data diri dan alamat serta memilih metode pengiriman dan metode pembayaran
+7. Menu **Checkout** digunakan saat kita akan melakukan pembelian dan pembayaran dengan mengisi data diri dan alamat serta memilih metode pengiriman dan metode pembayaran
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/298ad919-6949-48e3-aaeb-eb3e40dff1de">
 
-1. Menu **Order History** dapat digunakan untuk melihat daftar pembayaran yang pernah dilakukan
+8. Menu **Order History** dapat digunakan untuk melihat daftar pembayaran yang pernah dilakukan
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/cf4ee37b-6425-4918-b011-954a7ddc8e7f">
 
-1. Menu **Wist List** digunakan untuk melihat daftar produk yang kita tambahkan sebagai wish list
+9. Menu **Wist List** digunakan untuk melihat daftar produk yang kita tambahkan sebagai wish list
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/26b7491b-78aa-4614-854f-100ad8c56189">
 
 ## Pembahasan
