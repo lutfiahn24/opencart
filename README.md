@@ -84,19 +84,22 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
 
-1. Login sebagai admin, lalu akan masuk ke page **Dashboard**
+1. Login sebagai admin.
+   <img width="886" alt="Login" src="https://github.com/lutfiahn24/opencart/assets/118100945/1b3ee030-4df5-4fbc-a24b-d9c21b4b9e22">
+
+2. Setelah login akan masuk ke page **Dashboard**
    <img width="886" alt="Dashboard" src="https://github.com/lutfiahn24/opencart/assets/118100945/dfd14126-e299-4e90-b24f-be138b5ece36">
 
-2. Navbar disamping menyediakan beberapa fitur yang dapat digunakan oleh admin untuk mempermudah admin.
+3. Navbar disamping menyediakan beberapa fitur yang dapat digunakan oleh admin untuk mempermudah admin.
    Beberapa contoh fitur yang akan kami tampilkan adalah sebagai berikut:
    Untuk menambahkan produk baru dapat dilakukan dengan menuju **Catalog** yang ada pada Navbar disamping lalu **Products**.
    Setelah itu dipojok kanan atas terdapat icon **+** lalu isi detail dari produk yang akan ditambahkan.
    <img width="886" alt="Screenshot 2023-10-03 at 11 50 47" src="https://github.com/lutfiahn24/opencart/assets/118100945/bbf80d85-5103-4c8d-a4d0-2053ac34ba52">
 
-3. Untuk melihat daftar **Order** terdapat pada menu **Sales**.
+4. Untuk melihat daftar **Order** terdapat pada menu **Sales**.
    <img width="886" alt="Order" src="https://github.com/lutfiahn24/opencart/assets/118100945/d19d0e79-8eb8-49ed-8ec4-f3ae10999b88">
 
-4. Untuk melihat berapa banyak Customer yang melakukan registrasi terdapat pada menu **Customers**.
+5. Untuk melihat berapa banyak Customer yang melakukan registrasi terdapat pada menu **Customers**.
    <img width="886" alt="Customer" src="https://github.com/lutfiahn24/opencart/assets/118100945/b7e809c8-c5f1-415f-bb27-f14ddb5a9f35">
 
 Adapun cara pemakaian CMS OpenCart sebagai User.
