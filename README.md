@@ -38,8 +38,13 @@ git clone https://github.com/opencart/opencart.git
 3. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
 4. Rename ``config-dist.php`` jadi ``config.php`` dan ``admin/config-dist.php`` jadi ``admin/config.php``
 5. Buat database dengan nama ``opencart`` dan user untuk Opencart menggunakan ``phpMyAdmin``
-6. Akses Opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan termasuk konfigurasi database.
-<img width="886" alt="image" src="[https://github.com/lutfiahn24/opencart/assets/93109340/68b2271e-8e22-4822-b156-5e0b98553b26]">
+6. Akses Opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan
+
+- Setujui persyaratan yang berlaku
+![WhatsApp Image 2023-10-03 at 10 45 34_99decc70](https://github.com/lutfiahn24/opencart/assets/93109340/51c49d2f-d06b-4154-91da-d7f16efa224a)
+- Pemeriksaan server, lengkapi konfigurasi PHP dan kelengkapan extension
+![WhatsApp Image 2023-10-03 at 10 50 56_e277664a](https://github.com/lutfiahn24/opencart/assets/93109340/ebb92d52-884e-4dd3-9af4-9496bbd96222)
+
 8. Hapus direktori instalasi untuk keamanan situs web.
 
 ## Konfigurasi (opsional)
