@@ -11,7 +11,7 @@ Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, meny
 
 - Unix, Linux atau Windows
 - Apache Web Server 2.2+
-- PHP 8+
+- PHP 8.0+
 - MySQL
 - RAM minimal 64 Mb+
 
