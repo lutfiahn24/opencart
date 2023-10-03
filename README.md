@@ -87,7 +87,7 @@ Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www
 3. Pada cPanel pilih file manager di menu files.
    <img width="886" alt="Screenshot (1290)" src="https://github.com/lutfiahn24/opencart/assets/146713686/82808190-a9bb-4f92-853b-61c1e594fc92">
 
-4. Upload folder web opencart-master yang telah diunduh dan letakkan di dalam folder public_html
+4. Upload folder zip opencart-master yang telah diunduh dan letakkan di dalam folder public_html. Kemudian ekstrak file zip opencart-master
    <img width="886" alt="Screenshot (1292)" src="https://github.com/lutfiahn24/opencart/assets/146713686/de3b8a4d-b277-47c5-a86e-351ec0bf0fa9">
 
 5. Buka folder upload pada folder opencart-master dan hapus file index.php
