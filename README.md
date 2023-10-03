@@ -41,7 +41,7 @@ git clone https://github.com/opencart/opencart.git
 6. Akses Opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan
 
 - Setujui persyaratan yang berlaku
-![WhatsApp Image 2023-10-03 at 10 45 34_99decc70](https://github.com/lutfiahn24/opencart/assets/93109340/51c49d2f-d06b-4154-91da-d7f16efa224a)
+![WhatsApp Image 2023-10-03 at 11 45 53_88737a42](https://github.com/lutfiahn24/opencart/assets/93109340/b89cea78-01b2-4554-b06d-b12ca2499b51)
 - Pemeriksaan server, lengkapi konfigurasi PHP dan kelengkapan extension
 ![WhatsApp Image 2023-10-03 at 10 50 56_e277664a](https://github.com/lutfiahn24/opencart/assets/93109340/ebb92d52-884e-4dd3-9af4-9496bbd96222)
 - Konfigurasi database
