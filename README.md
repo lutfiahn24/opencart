@@ -170,3 +170,4 @@ Jika dibandingkan dengan aplikasi Odoo, Opencart memiliki beberapa kelebihan dan
 ## Referensi
 
 1. [Opencart](https://www.opencart.com)
+2. [Cara Install Opencart: Panduan untuk Pemula](https://www.hostinger.co.id/tutorial/cara-install-opencart#:~:text=OpenCart%20adalah%20sistem%20manajemen%20konten,usaha%20kecil%20maupun%20perusahaan%20besar.)
