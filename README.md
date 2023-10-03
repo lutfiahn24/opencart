@@ -33,17 +33,17 @@ Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, meny
   extension=zip
   ```
 
-4. Mulai layanan Apache dan MySQL dari panel kontrol XAMPP
-5. Unduh Opencart ke dalam direktori kita.
+3. Mulai layanan Apache dan MySQL dari panel kontrol XAMPP
+4. Unduh Opencart ke dalam direktori kita.
 
 ```
 git clone https://github.com/opencart/opencart.git
 ```
 
-3. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
-4. Rename `config-dist.php` jadi `config.php` dan `admin/config-dist.php` jadi `admin/config.php`
-5. Buat database dengan nama `opencart` dan user untuk Opencart menggunakan `phpMyAdmin`
-6. Akses Opencart melalui browser dengan URL lokal `http://localhost/opencart` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan
+5. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
+6. Rename `config-dist.php` jadi `config.php` dan `admin/config-dist.php` jadi `admin/config.php`
+7. Buat database dengan nama `opencart` dan user untuk Opencart menggunakan `phpMyAdmin`
+8. Akses Opencart melalui browser dengan URL lokal `http://localhost/opencart` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan
 
 - Setujui persyaratan yang berlaku
   ![WhatsApp Image 2023-10-03 at 11 45 53_88737a42](https://github.com/lutfiahn24/opencart/assets/93109340/b89cea78-01b2-4554-b06d-b12ca2499b51)
@@ -87,10 +87,11 @@ Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www
 3. Pada cPanel pilih file manager di menu files.
    <img width="886" alt="Screenshot (1290)" src="https://github.com/lutfiahn24/opencart/assets/146713686/82808190-a9bb-4f92-853b-61c1e594fc92">
 
-4. Upload folder zip opencart-master yang telah diunduh dan letakkan di dalam folder public_html. Kemudian ekstrak file zip opencart-master.
+4. Upload folder zip opencart-master yang telah diunduh dan letakkan di dalam folder public_html. Kemudian ekstrak file zip
+   opencart-master.
    <img width="886" alt="Screenshot (1292)" src="https://github.com/lutfiahn24/opencart/assets/146713686/de3b8a4d-b277-47c5-a86e-351ec0bf0fa9">
 
-5. Buka folder upload pada folder opencart-master dan hapus file index.php
+6. Buka folder upload pada folder opencart-master dan hapus file index.php
 
 
 ## Cara Pemakaian
