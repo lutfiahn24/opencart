@@ -11,8 +11,8 @@ Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, meny
 
 - Unix, Linux atau Windows
 - Apache Web Server 2.2+
-- PHP 7.3+
-- MySQL (gatau versi brp)
+- PHP 8+
+- MySQL
 - RAM minimal 64 Mb+
 
 ### Langkah instalasi dalam CLI.
@@ -39,7 +39,8 @@ git clone https://github.com/opencart/opencart.git
 4. Rename ``config-dist.php`` jadi ``config.php`` dan ``admin/config-dist.php`` jadi ``admin/config.php``
 5. Buat database dengan nama ``opencart`` dan user untuk Opencart menggunakan ``phpMyAdmin``
 6. Akses Opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan termasuk konfigurasi database.
-7. Hapus direktori instalasi untuk keamanan situs web.
+<img width="886" alt="image" src="[https://github.com/lutfiahn24/opencart/assets/93109340/68b2271e-8e22-4822-b156-5e0b98553b26]">
+8. Hapus direktori instalasi untuk keamanan situs web.
 
 ## Konfigurasi (opsional)
 
