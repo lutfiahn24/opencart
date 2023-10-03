@@ -101,16 +101,19 @@ Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
 ## Pembahasan
 
 Opencart ditulis dalam bahasa pemrograman PHP yang support penggunaan MySQL. Kelebihan yang dimiliki oleh aplikasi Opencart yaitu:
+
     - Memiliki interface yang mudah digunakan, membuatnya cocok untuk digunakan oleh pemula.
     - Pengelolaan produk yang mudah dipahami dengan mengelompokkan produk sesuai kategori.
     - Beragamnya pilihan pembayaran membuat pengguna sangat fleksibel dalam memilih metode pembayaran yang diinginkan.
     - Mendukung dalam berbagai bahasa dan mata uang sehingga memungkinkan untuk menjangkau pasar global.
 
 Kekurangan yang dimiliki Opencart yaitu:
+
     - Opencart tidak memiliki integrasi built-in yang kuat dengan berbagai fungsi manajemen bisnis lainnya.
     - Opencart kurang mampu dalam hal manajemen stok yang kompleks, manajemen persediaan, dan pemrosesan pesanan yang canggih.
 
 Jika dibandingkan dengan aplikasi Odoo, Opencart memiliki beberapa kelebihan dan kekurangan:
+
     - Opencart dirancang khusus untuk toko online, Sedangkan Odoo mencakup berbagai aspek bisnis seperti akuntansi, CRM, produksi, persediaan, dan lainnya dalam satu platform terintegrasi.
     - Opencart memerlukan sumber daya server yang lebih sedikit dibandingkan dengan Odoo karena fokusnya yang lebih terbatas.
     - Versi Enterprise Odoo berbayar dan biayanya bisa lebih tinggi daripada biaya yang terkait dengan Opencart.
