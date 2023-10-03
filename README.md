@@ -54,28 +54,6 @@ git clone https://github.com/opencart/opencart.git
 
 7. Hapus direktori instalasi untuk keamanan situs web.
 
-## Konfigurasi (opsional)
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-## Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
 ## Otomatisasi
 
 Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www.rumahweb.com/. Tujuan dari hosting adalah agar Opencart dapat diakses secara _online_. Berikut langkah-langkah hosting Opencart :
