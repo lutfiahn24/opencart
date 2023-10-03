@@ -44,6 +44,8 @@ git clone https://github.com/opencart/opencart.git
 ![WhatsApp Image 2023-10-03 at 10 45 34_99decc70](https://github.com/lutfiahn24/opencart/assets/93109340/51c49d2f-d06b-4154-91da-d7f16efa224a)
 - Pemeriksaan server, lengkapi konfigurasi PHP dan kelengkapan extension
 ![WhatsApp Image 2023-10-03 at 10 50 56_e277664a](https://github.com/lutfiahn24/opencart/assets/93109340/ebb92d52-884e-4dd3-9af4-9496bbd96222)
+- Konfigurasi database
+![WhatsApp Image 2023-10-03 at 10 53 47_a1ee759c](https://github.com/lutfiahn24/opencart/assets/93109340/8e90fde1-be3b-4a0f-8d03-1d52aa6a2950)
 
 8. Hapus direktori instalasi untuk keamanan situs web.
 
