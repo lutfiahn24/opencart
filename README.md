@@ -52,7 +52,7 @@ git clone https://github.com/opencart/opencart.git
 - Konfigurasi database
   ![WhatsApp Image 2023-10-03 at 10 53 47_a1ee759c](https://github.com/lutfiahn24/opencart/assets/93109340/8e90fde1-be3b-4a0f-8d03-1d52aa6a2950)
 
-8. Hapus direktori instalasi untuk keamanan situs web.
+7. Hapus direktori instalasi untuk keamanan situs web.
 
 ## Konfigurasi (opsional)
 
