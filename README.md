@@ -1,9 +1,9 @@
-# Aplikasi Web "OPENCART"
+# Aplikasi Web "Opencart"
 
 ## Sekilas Tentang
 
-OpenCart adalah platform e-commerce berbasis web open-source yang dirancang untuk memungkinkan pemilik bisnis untuk membuat dan mengelola toko online mereka sendiri dengan mudah.
-Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, menyiapkan metode pembayaran yang mudah, menambahkan beberapa toko, serta mengelola diskon dan afiliasi. Selain itu, fungsionalitas OpenCart bisa ditingkatkan dengan modul PHP.
+Opencart adalah platform e-commerce berbasis web open-source yang dirancang untuk memungkinkan pemilik bisnis untuk membuat dan mengelola toko online mereka sendiri dengan mudah.
+Platform ini memungkinkan user mengunggah produk dalam jumlah tak terbatas, menyiapkan metode pembayaran yang mudah, menambahkan beberapa toko, serta mengelola diskon dan afiliasi. Selain itu, fungsionalitas Opencart bisa ditingkatkan dengan modul PHP.
 
 ## Instalasi
 
@@ -38,7 +38,7 @@ git clone https://github.com/opencart/opencart.git
 3. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
 4. Rename ``config-dist.php`` jadi ``config.php`` dan ``admin/config-dist.php`` jadi ``admin/config.php``
 5. Buat database dengan nama ``opencart`` dan user untuk Opencart menggunakan ``phpMyAdmin``
-6. Akses opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan termasuk konfigurasi database.
+6. Akses Opencart melalui browser dengan URL lokal ``http://localhost/opencart`` kemudian lakukan proses instalasi dengan mengikuti langkah-langkah instalasi yang ditampilkan termasuk konfigurasi database.
 7. Hapus direktori instalasi untuk keamanan situs web.
 
 ## Konfigurasi (opsional)
@@ -69,10 +69,10 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 
-Cara pemaiakan CMS OpenCart sangatlah mudah. Berikut langkah-langkahnya:
+Cara pemaiakan CMS Opencart sangatlah mudah. Berikut langkah-langkahnya:
 
-1. Saat kita membuka OpenCart, maka kita akan masuk ke **Home Page** yang menampilkan produk-produk penjualan
-   <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/f5000f6c-1985-4bc4-aa4c-cd2f352ced79">
+1. Saat kita membuka Opencart, maka kita akan masuk ke **Home Page** yang menampilkan produk-produk penjualan
+   <img width="886" alt="image" src="https://github.com/lutfiahn24/Opencart/assets/93109340/f5000f6c-1985-4bc4-aa4c-cd2f352ced79">
 
 2. Pada bagian atas terdapat menu berisi kategori dari produk yang dijual, sehingga kita dapat memilih kategori produk yang ingin ditampilkan
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/28f03b93-2ae7-493a-9511-71fc040f2d4b">
@@ -80,7 +80,7 @@ Cara pemaiakan CMS OpenCart sangatlah mudah. Berikut langkah-langkahnya:
 3. Kita juga dapat memilih mata uang yang kita pakai dengan menggunakan fitur **Currency** yang ada dipojok kiri atas
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/c39c75b8-44ca-4390-9760-4748a184794b">
 
-4. Sebelum menggunakan OpenCart lebih lanjut, kita perlu login terlebih dahulu dengan membuka tab **My Account** lalu pilih opsi **Login**
+4. Sebelum menggunakan Opencart lebih lanjut, kita perlu login terlebih dahulu dengan membuka tab **My Account** lalu pilih opsi **Login**
    <img width="886" alt="image" src="https://github.com/lutfiahn24/OpenCart/assets/93109340/07445af2-5e6d-4631-a301-9dd40cbdd178">
 
 5. Kita dapat menambahkan produk ke keranjang menggunakan fitur **Add to Cart**
@@ -100,21 +100,21 @@ Cara pemaiakan CMS OpenCart sangatlah mudah. Berikut langkah-langkahnya:
 
 ## Pembahasan
 
-OpenCart ditulis dalam bahasa pemrograman PHP yang support penggunaan MySQL. Kelebihan yang dimiliki oleh aplikasi OpenCart yaitu:
+Opencart ditulis dalam bahasa pemrograman PHP yang support penggunaan MySQL. Kelebihan yang dimiliki oleh aplikasi Opencart yaitu:
     - Memiliki interface yang mudah digunakan, membuatnya cocok untuk digunakan oleh pemula.
     - Pengelolaan produk yang mudah dipahami dengan mengelompokkan produk sesuai kategori.
     - Beragamnya pilihan pembayaran membuat pengguna sangat fleksibel dalam memilih metode pembayaran yang diinginkan.
     - Mendukung dalam berbagai bahasa dan mata uang sehingga memungkinkan untuk menjangkau pasar global.
 
-Kekurangan yang dimiliki OpenCart yaitu:
-    - OpenCart tidak memiliki integrasi built-in yang kuat dengan berbagai fungsi manajemen bisnis lainnya.
-    - OpenCart kurang mampu dalam hal manajemen stok yang kompleks, manajemen persediaan, dan pemrosesan pesanan yang canggih.
+Kekurangan yang dimiliki Opencart yaitu:
+    - Opencart tidak memiliki integrasi built-in yang kuat dengan berbagai fungsi manajemen bisnis lainnya.
+    - Opencart kurang mampu dalam hal manajemen stok yang kompleks, manajemen persediaan, dan pemrosesan pesanan yang canggih.
 
 Jika dibandingkan dengan aplikasi Odoo, Opencart memiliki beberapa kelebihan dan kekurangan:
-    - OpenCart dirancang khusus untuk toko online, Sedangkan Odoo mencakup berbagai aspek bisnis seperti akuntansi, CRM, produksi, persediaan, dan lainnya dalam satu platform terintegrasi.
-    - OpenCart memerlukan sumber daya server yang lebih sedikit dibandingkan dengan Odoo karena fokusnya yang lebih terbatas.
-    - Versi Enterprise Odoo berbayar dan biayanya bisa lebih tinggi daripada biaya yang terkait dengan OpenCart.
+    - Opencart dirancang khusus untuk toko online, Sedangkan Odoo mencakup berbagai aspek bisnis seperti akuntansi, CRM, produksi, persediaan, dan lainnya dalam satu platform terintegrasi.
+    - Opencart memerlukan sumber daya server yang lebih sedikit dibandingkan dengan Odoo karena fokusnya yang lebih terbatas.
+    - Versi Enterprise Odoo berbayar dan biayanya bisa lebih tinggi daripada biaya yang terkait dengan Opencart.
 
 ## Referensi
 
-1. [OpenCart](https://www.opencart.com)
+1. [Opencart](https://www.opencart.com)
