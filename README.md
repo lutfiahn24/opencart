@@ -76,7 +76,7 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - hapus direktori sampah tiap hari
 - dll
 
-## Otomatisasi (opsional)
+## Otomatisasi
 
 Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www.rumahweb.com/. Tujuan dari hosting adalah agar Opencart dapat diakses secara _online_. Berikut langkah-langkah hosting Opencart :
 1. Sewa layanan hosting dan domain dari rumahweb. Domain yang digunakan adalah opencartonline.my.id.
