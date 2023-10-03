@@ -90,7 +90,7 @@ Opencart dihosting menggunakan layanan _web-hosting_ dan domain dari https://www
 4. Upload folder web opencart-master yang telah diunduh dan letakkan di dalam folder public_html
    <img width="886" alt="Screenshot (1292)" src="https://github.com/lutfiahn24/opencart/assets/146713686/de3b8a4d-b277-47c5-a86e-351ec0bf0fa9">
 
-5. Buka folder upload pada folder opencart-master
+5. Buka folder upload pada folder opencart-master dan hapus file index.php
 
 
 ## Cara Pemakaian
